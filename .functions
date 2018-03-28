@@ -1,0 +1,6 @@
+#Mkdir and cd into it
+function mkd() {
+	mkdir -p "$@" && cd "$_";
+}
+
+
