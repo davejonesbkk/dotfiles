@@ -1,0 +1,22 @@
+#shortcuts
+
+alias l="ls -la"
+alias ll="ls -lA"
+alias ld="ls -ld */"
+alias ..="cd .."
+alias ..="cd ../.."
+alias ....="cd ../../.."
+
+alias reload="source ~/.bash_profile"
+
+alias tree="tree -A"
+alias treed="tree -d"
+alias tree1="tree -d -L 1"
+alias tree2="tree -d -L 2"
+
+alias speedtest="wget -O /dev/null http://speedtest.wdc01.softlayer.com/downloads/test100.zip"
+
+alias ip="ip addr show"
+alias localip="ipconfig getifaddr en0"
+
+
